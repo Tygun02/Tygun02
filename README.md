@@ -78,5 +78,5 @@ Automation & Scripting:
 
 ---
 
-Location: Netherlands  
-LinkedIn: (Add your LinkedIn URL here)
+Location: Netherlands/London  
+LinkedIn: https://www.linkedin.com/in/kingsley-otoo-6aabb0273/
