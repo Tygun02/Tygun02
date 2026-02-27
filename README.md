@@ -79,4 +79,4 @@ Automation & Scripting:
 ---
 
 Location: Netherlands/London  
-LinkedIn: https://www.linkedin.com/in/kingsleyotoo
+LinkedIn: https://www.linkedin.com/in/kingsley-otoo-6aabb0273/
