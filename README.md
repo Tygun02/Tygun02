@@ -1,4 +1,5 @@
 # Kingsley Otoo
+
 ### IT Support | Help Desk (Tier 1 / Tier 2) | Windows & Active Directory
 
 IT Support professional transitioning into a Tier 1 / Tier 2 Help Desk role, with hands-on experience building and troubleshooting a Windows enterprise lab environment.
@@ -7,12 +8,26 @@ My focus is practical support skills: Active Directory administration, DNS, Grou
 
 ---
 
+## Portfolio Highlights
+
+• Built a Windows Server 2022 and Windows 11 Active Directory lab using VMware  
+• Configured Active Directory Domain Services (AD DS), DNS, DHCP, and Group Policy  
+• Created ticket-style troubleshooting scenarios simulating real IT support incidents  
+• Demonstrated user management, remote access configuration, and policy troubleshooting  
+• Documented solutions with screenshots and structured technical reports  
+
+These projects demonstrate the practical skills required for **Tier 1 / Tier 2 IT Support and Junior System Administration roles.**
+
+---
+
 ## Featured Projects
 
 ### Windows IT Support Home Lab
-Enterprise-style lab built on Windows Server 2022 + Windows 11.
+
+Enterprise-style lab built on **Windows Server 2022 + Windows 11**.
 
 Demonstrates:
+
 - Active Directory Domain Services (AD DS)
 - DNS configuration and troubleshooting
 - Group Policy Objects (GPO)
@@ -21,62 +36,57 @@ Demonstrates:
 - Ticket-style troubleshooting scenarios
 - Structured documentation & validation
 
-Project Link:
+Project Link:  
 https://github.com/Tygun02/windows-it-support-lab
 
 ---
 
 ### Help Desk Scenario Portfolio
+
 Recruiter-ready documentation (PDF & Word format).
 
 Includes:
+
 - Incident-style troubleshooting reports
 - Root cause analysis
 - Step-by-step remediation
 - Validation and testing evidence
 - Structured ticket documentation format
 
-Portfolio Link:
+Portfolio Link:  
 https://github.com/Tygun02/help-desk-portfolio
 
 ---
 
 ## Technical Skills
 
-Operating Systems:
+### Operating Systems
+
 - Windows 11
 - Windows Server 2022
 
-Directory & Identity:
+### Directory & Identity
+
 - Active Directory (Users, Groups, OUs)
 - Group Policy Management
 - Domain authentication troubleshooting
 
-Networking Fundamentals:
+### Networking Fundamentals
+
 - DNS configuration & troubleshooting
 - DHCP basics
 - IP addressing concepts
 
-Support & Troubleshooting:
+### Support & Troubleshooting
+
 - Remote Desktop configuration
 - User account lockout investigation
-- GPO debugging (gpresult / rsop)
+- GPO debugging (`gpresult`, `rsop`)
 - Log-based troubleshooting
 - Structured ticket documentation
 
-Automation & Scripting:
+### Automation & Scripting
+
 - PowerShell fundamentals
 - Task automation scripting
 - Robocopy backup scripting
-
----
-
-## Current Focus
-- Expanding troubleshooting scenarios
-- Strengthening PowerShell automation
-- Preparing for entry-level IT Support / Desktop Support roles
-
----
-
-Location: Netherlands/London  
-LinkedIn: https://www.linkedin.com/in/kingsley-otoo-6aabb0273/
